@@ -1,0 +1,27 @@
+Proyecto: ORA
+
+Versión: 1.0
+
+===============================
+
+RN-001
+Actualización de pedidos
+
+Descripción:
+Los pedidos solo podrán actualizarse desde Protheus cuando estén en estado Pendiente.
+
+===============================
+
+RN-002
+Etiquetas
+
+Descripción:
+Cada unidad física recibirá una etiqueta única.
+
+===============================
+
+RN-003
+Lotes
+
+Descripción:
+El lote será informado por el operador durante la conferencia cuando el producto controle lote.
